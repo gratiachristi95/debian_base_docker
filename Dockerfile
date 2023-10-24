@@ -1,5 +1,5 @@
 #
-# Ubuntu Dockerfile
+# Debian Dockerfile
 #
 # https://github.com/dockerfile/ubuntu
 #
