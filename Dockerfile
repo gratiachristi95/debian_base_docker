@@ -1,5 +1,4 @@
-#
-# Debian Dockerfile
+# Template based on Ubuntu Dockerfile
 #
 # https://github.com/dockerfile/ubuntu
 #
