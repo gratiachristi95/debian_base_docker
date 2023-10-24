@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
   debian:
-    image:  
+    image: gigolo0937/debian
     stdin_open: true
-    tty: true        
+    tty: true
     restart: always
