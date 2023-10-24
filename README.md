@@ -14,7 +14,6 @@ README.md template from https://dockerfile.github.io/#/ubuntu
 
 2. Download [automated build](https://hub.docker.com/r/gigolo0937/debian) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull gigolo0937/debian`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="dockerfile/ubuntu" github.com/dockerfile/ubuntu`)
 
 
 ### Usage
