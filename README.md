@@ -16,4 +16,4 @@ This repository contains a Dockerfile of [Debian](https://www.debian.org/) for [
   
 5. Use the docker-compose.yml as a template to run a base debian image
 
-6. Run docker compose up -d
+6. Run docker-compose up -d
