@@ -17,5 +17,3 @@ README.md template from https://dockerfile.github.io/#/ubuntu
 
 
 ### Usage
-
-docker run -it --rm gigolo0937/debian
